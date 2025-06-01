@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^HPCell\.Rproj$
+^\.Rproj\.user$
